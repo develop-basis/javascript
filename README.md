@@ -20,3 +20,8 @@
 
 
 javascript中的预定义链接：[http://blog.imruxin.com/develop/javascript-predefine.html](http://blog.imruxin.com/develop/javascript-predefine.html)
+
+
+一些学习资源：
+
+- [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)

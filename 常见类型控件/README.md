@@ -17,3 +17,14 @@ PS: **bootstrap-datepicker** 版本有多个
 
 ## 图片上传预览裁剪
 
+## 移动设备检测
+
+```javascript
+<script type=”text/javascript”>
+	if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+		window.location = “mobile.html”; //可以换成http地址
+	}
+</script>
+```
+
+[https://github.com/matthewhudson/device.js](https://github.com/matthewhudson/device.js)
