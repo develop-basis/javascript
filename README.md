@@ -25,3 +25,4 @@ javascript中的预定义链接：[http://blog.imruxin.com/develop/javascript-pr
 一些学习资源：
 
 - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+- [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
